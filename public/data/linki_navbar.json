@@ -1,0 +1,30 @@
+[
+  {
+    "nazwa": "Szachy",
+    "link": "szachy"
+  },
+  {
+    "nazwa": "Matematyka",
+    "link": "matematyka"
+  },
+  {
+    "nazwa": "Cennik",
+    "link": "cennik"
+  },
+  {
+    "nazwa": "Kontakt",
+    "link": "kontakt"
+  },
+  {
+    "nazwa": "Dokumenty",
+    "link": "dokumenty"
+  },
+  {
+    "nazwa": "FAQ",
+    "link": "faq"
+  },
+  {
+    "nazwa": "Zapisz dziecko na zajęcia",
+    "link": "zapisz"
+  }
+]

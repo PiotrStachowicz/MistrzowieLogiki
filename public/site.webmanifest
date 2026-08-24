@@ -1,0 +1,16 @@
+{
+  "name": "Mistrzowie Logiki",
+  "short_name": "Mistrzowie Logiki",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#071712",
+  "theme_color": "#071712",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}

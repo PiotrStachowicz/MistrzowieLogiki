@@ -1,0 +1,118 @@
+[
+  {
+    "id": "preschool",
+    "title": "Zajęcia szachowe – Przedszkola",
+    "icon": "School",
+    "features": [
+      "👶 Dla dzieci w wieku 3–6 lat",
+      "🕒 1x w tygodniu, 30 min | 👥 Grupa 8–12 osób",
+      "💰 80 zł / miesiąc"
+    ]
+  },
+  {
+    "id": "primary-school",
+    "title": "Zajęcia szachowe – Szkoły podstawowe",
+    "icon": "Building",
+    "features": [
+      "🏫 Dla dzieci w wieku 6–14 lat",
+      "🕒 1x w tygodniu, 45 min | 👥 Grupa 8–12 osób",
+      "💰 120 zł / miesiąc"
+    ]
+  },
+  {
+    "id": "individual-chess",
+    "title": "Szachy – Zajęcia indywidualne",
+    "icon": "Brain",
+    "features": [
+      "🎯 Program dopasowany do ucznia",
+      "🕒 60 min | 👤 1 osoba",
+      "💰 od 70 zł / zajęcia (w zależności od poziomu i częstotliwości)"
+    ]
+  },
+  {
+    "id": "group-chess",
+    "title": "Szachy – Zajęcia grupowe",
+    "icon": "Brain",
+    "features": [
+      "👫 Kameralne zajęcia w przyjaznej atmosferze",
+      "🕒 1x w tygodniu, 60 min | 👥 Grupa 2–4 osoby",
+      "💰 od 100 zł / miesiąc"
+    ]
+  },
+  {
+    "id": "institutions",
+    "title": "Szachy – Współpraca z placówkami",
+    "icon": "Brain",
+    "features": [
+      "📚 Zajęcia lub warsztaty w szkołach, przedszkolach, domach kultury",
+      "🕒 Harmonogram ustalany indywidualnie",
+      "💰 Cena ustalana w ramach współpracy"
+    ]
+  },
+  {
+    "id": "companies",
+    "title": "Szachy – Zajęcia dla firm",
+    "icon": "Brain",
+    "features": [
+      "🏢 Warsztaty, turnieje, integracje z elementem strategii",
+      "🕒 Czas trwania i zakres dopasowany do firmy",
+      "💰 Oferta wyceniana indywidualnie"
+    ]
+  },
+  {
+    "id": "math-tutoring-regular",
+    "title": "Matematyka – Korepetycje indywidualne (cykliczne)",
+    "icon": "Calculator",
+    "features": [
+      "📐 Dla uczniów szkół podstawowych i średnich",
+      "🕒 60 min | 👤 1 osoba",
+      "🧒 Szkoła podstawowa (do 6 klasy) – 70 zł / 60 min",
+      "🧒 Szkoła podstawowa (7 i 8 klasa) – 80 zł / 60 min",
+      "🧑‍🏫 Szkoła średnia – poziom podstawowy – 100 zł / 60 min",
+      "🎓 Szkoła średnia – poziom rozszerzony – 120 zł /60 min"
+    ]
+  },
+  {
+    "id": "math-tutoring-irregular",
+    "title": "Matematyka – Korepetycje indywidualne (nieregularne)",
+    "icon": "Calculator",
+    "features": [
+      "📐 Dla uczniów szkół podstawowych i średnich",
+      "🕒 60 min | 👤 1 osoba",
+      "📌 Elastyczny termin, szybka pomoc przed sprawdzianem",
+      "🧒 Szkoła podstawowa – 100 zł / 60 min",
+      "🧑‍🏫 Szkoła średnia – poziom podstawowy – 120 zł / 60 min",
+      "🎓 Szkoła średnia – poziom rozszerzony – 140 zł / 60 min"
+    ]
+  },
+  {
+    "id": "math-group",
+    "title": "Matematyka – Zajęcia w małych grupach",
+    "icon": "Users",
+    "features": [
+      "👨‍👩‍👧‍👦 Grupy 2–4 osoby, przyjazna nauka bez stresu",
+      "🕒 60 min | 👥 Grupa 2–4 osoby",
+      "💰 od 100 zł / miesiąc"
+    ]
+  },
+  {
+    "id": "egzamin-osmoklasisty",
+    "title": "Egzamin ósmoklasisty – Kurs grupowy",
+    "icon": "Calendar",
+    "features": [
+      "🧑‍🏫 Przygotowanie do egzaminu w kameralnych grupach",
+      "🕒 60 min / 1x w tygodniu | 👥 Grupa do 6 osób",
+      "💰 160 zł / miesiąc"
+    ]
+  },
+  {
+    "id": "matura",
+    "title": "Matura podstawowa – Kurs grupowy",
+    "icon": "Calendar",
+    "features": [
+      "🎓 Powtórki, arkusze, strategie, spokojne tempo",
+      "🕒 60  min / 1x w tygodniu | 👥 Grupa do 6 osób",
+      "💰 200 zł / miesiąc"
+    ]
+  }
+]

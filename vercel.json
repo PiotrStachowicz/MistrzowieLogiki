@@ -1,0 +1,50 @@
+{
+  "rewrites": [
+    { "source": "/szachy", "destination": "/szachy/index.html" },
+    { "source": "/matematyka", "destination": "/matematyka/index.html" },
+    { "source": "/cennik", "destination": "/cennik/index.html" },
+    { "source": "/kontakt", "destination": "/kontakt/index.html" },
+    { "source": "/faq", "destination": "/faq/index.html" },
+    { "source": "/zapisz", "destination": "/zapisz/index.html" },
+    { "source": "/politykaprywatnosci", "destination": "/politykaprywatnosci/index.html" },
+    { "source": "/cookies", "destination": "/cookies/index.html" },
+    { "source": "/en", "destination": "/en/index.html" },
+    { "source": "/en/szachy", "destination": "/en/szachy/index.html" },
+    { "source": "/en/matematyka", "destination": "/en/matematyka/index.html" },
+    { "source": "/en/cennik", "destination": "/en/cennik/index.html" },
+    { "source": "/en/kontakt", "destination": "/en/kontakt/index.html" },
+    { "source": "/en/faq", "destination": "/en/faq/index.html" },
+    { "source": "/en/zapisz", "destination": "/en/zapisz/index.html" },
+    { "source": "/en/politykaprywatnosci", "destination": "/en/politykaprywatnosci/index.html" },
+    { "source": "/en/cookies", "destination": "/en/cookies/index.html" }
+  ],
+  "headers": [
+    {
+      "source": "/(.*)",
+      "headers": [
+        { "key": "X-Content-Type-Options", "value": "nosniff" },
+        { "key": "X-Frame-Options", "value": "DENY" },
+        { "key": "Referrer-Policy", "value": "strict-origin-when-cross-origin" },
+        { "key": "Permissions-Policy", "value": "camera=(), microphone=(), geolocation=()" }
+      ]
+    },
+    {
+      "source": "/assets/(.*)",
+      "headers": [
+        { "key": "Cache-Control", "value": "public, max-age=31536000, immutable" }
+      ]
+    },
+    {
+      "source": "/redesign/(.*)",
+      "headers": [
+        { "key": "Cache-Control", "value": "public, max-age=86400, stale-while-revalidate=604800" }
+      ]
+    },
+    {
+      "source": "/data/(.*)",
+      "headers": [
+        { "key": "Cache-Control", "value": "public, max-age=300, stale-while-revalidate=86400" }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+[
+  {
+    "nazwa": "Przetwarzanie rodo",
+    "link": "rodo.pdf"
+  },
+  {
+    "nazwa": "Polityka cookies",
+    "link": "cookies.pdf"
+  },
+  {
+    "nazwa": "Regulamin zajęć szachowych w szkołach i przedszkolach",
+    "link": "regulamin_szachy.pdf"
+  },
+  {
+    "nazwa": "Regulamin zajęć grupowych kurs do matury i egzaminu ósmoklasisty",
+    "link": "regulamin_kursy_grupowe.pdf"
+  },
+  {
+    "nazwa": "Regulamin zajęć indywidualnych",
+    "link": "regulamin_zajecia_indywidualne.pdf"
+  },
+  {
+    "nazwa": "Regulamin płatności składek",
+    "link": "regulamin_platnosci.pdf"
+  }
+]
