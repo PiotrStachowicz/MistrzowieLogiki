@@ -121,9 +121,9 @@ const homeCopy = {
       { id: 'home-next', label: 'Next step' },
     ] satisfies StoryNavigationItem[],
     heroKicker: 'Maths and chess • online and in person',
-    heroTitle: 'Lessons built around the student, not a fixed template.',
+    heroTitle: 'Every student thinks differently.',
     heroLead:
-      'We teach children and teenagers in regular weekly sessions. Explanations are clear, examples are practical and the pace is adjusted to the student.',
+      'That is why we adapt the way we explain things to the individual student.',
     heroPrimary: 'Enrol a student',
     heroSecondary: 'See both paths',
     scroll: 'See how we teach',
@@ -175,9 +175,9 @@ const homeCopy = {
       },
     ],
     resultsKicker: 'After the lesson',
-    resultsTitle: 'The student knows what they understand and what to work on next.',
+    resultsTitle: 'The student knows what they are doing.',
     resultsLead:
-      'A lesson should do more than solve one problem. The student should understand the method and be able to use it independently next time.',
+      'They understand the method and can use it in the next problem.',
     results: [
       'knows how to start a problem',
       'understands the cause of an error',
